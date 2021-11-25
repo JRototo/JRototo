@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-<!--
-**JRototo/JRototo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiJRototo=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiRototo=anuraghazra&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiRototo=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apigraywhite=anuraghazra&theme=dark&show_icons=true)
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

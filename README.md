@@ -1,9 +1,10 @@
-### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiJRototo=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiRototo=anuraghazra&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiRototo=anuraghazra&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apigraywhite=anuraghazra&theme=dark&show_icons=true)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20I\'m_JRototo&fontSize=80)
+)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JRototo&show_icons=true&theme=buefy&count_private=true)
+)
 
 
 

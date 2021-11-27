@@ -7,7 +7,8 @@
 <p><img src="https://img.shields.io/badge/windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-0b74b8?style=flat-square&logo=CSS3&logoColor=white"/>
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 </p>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JRototo&count_private=true&show_icons=true&theme=omni)
